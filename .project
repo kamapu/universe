@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>universe</name>
+	<comment>
+		Creating an own R-universe. See blog at
+		https://yabellini.netlify.app/es/post/r_universe/
+	</comment>
+	<projects>
+	</projects>
+	<buildSpec>
+	</buildSpec>
+	<natures>
+	</natures>
+</projectDescription>

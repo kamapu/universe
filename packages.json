@@ -1,0 +1,18 @@
+[
+  {
+    "package": "taxlist",
+    "url": "https://github.com/ropensci/taxlist"
+  },
+  {
+    "package": "vegtable",
+    "url": "https://github.com/kamapu/vegtable"
+  },
+  {
+    "package": "yamlme",
+    "url": "https://github.com/kamapu/yamlme"
+  },
+  {
+    "package": "biblio",
+    "url": "https://github.com/kamapu/biblio"
+  },
+]
