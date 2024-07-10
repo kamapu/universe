@@ -15,4 +15,8 @@
     "package": "biblio",
     "url": "https://github.com/kamapu/biblio"
   },
+  {
+    "package": "taxnames",
+    "url": "https://github.com/kamapu/taxnames/"
+  }
 ]
